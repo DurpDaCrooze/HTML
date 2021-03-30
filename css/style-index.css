@@ -1,7 +1,49 @@
+*{
+        font-family: Tahoma, Geneva, sans-serif;
+}
+
 #box1{
-    font-family: Tahoma, Geneva, sans-serif;
-    margin: 50px;
+    margin: 10px;
     text-align: center;
     background: #f4f4f4;
     border: 5px grey solid;
+    border-radius: 16px;
+}
+
+#box2{
+    margin: 10px;
+    margin-top:30px;
+    text-align: center;
+    background: #f4f4f4;
+    border: 5px #a9a9a9 dotted;
+    border-radius: 16px;
+}
+
+#box2-title{
+    color: #909090;
+}
+
+#box-bodytext{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#box2-bodytext{
+    color: #909090;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.buttons-section{
+    align-self: center;
+    padding-bottom: 10px;
+}
+
+.buttons{
+    border-radius: 4px;
+    
+}
+
+#footer{
+    
 }
