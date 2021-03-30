@@ -11,3 +11,21 @@ body{
     line-height: 1.2em;
 }
 
+.article-par{
+    font-size: 16px;
+    background-color: #dddddd;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.article-sub{
+    padding-left: 10px;
+}
+
+#luca-img{
+    width: 400px;
+    height: 400px;
+    float: none;
+}
