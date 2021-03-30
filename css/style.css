@@ -1,9 +1,18 @@
+/*reset
+*{
+    margin: 0px;
+    padding: 0px;
+}
+*/
+
 body{
     background-color: #f4f4f4;
     color:#555555;
     font-family: Tahoma, Geneva, sans-serif;
     font-size: 16px;
     font-weight: normal;
+    
+    margin: 20px;
     
     /*Same as above*/
     font: normal 16px Tahoma;
@@ -22,6 +31,11 @@ body{
 
 .article-sub{
     padding-left: 10px;
+}
+
+.article-block{
+    border-bottom:1px grey solid;
+    border-bottom-style: solid;
 }
 
 #luca-img{
