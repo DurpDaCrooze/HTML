@@ -23,6 +23,11 @@
     color: #909090;
 }
 
+#box3-title{
+    color: #909090;
+    padding-left: 20px;
+}
+
 #box-bodytext{
     padding-left: 20px;
     padding-right: 20px;
@@ -41,9 +46,9 @@
 
 .buttons{
     border-radius: 4px;
-    
+
 }
 
 #footer{
-    
+
 }
